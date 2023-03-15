@@ -32,7 +32,7 @@
           <el-button class="btn-add" size="mini" @click="batchRemove()"
             >批量删除</el-button
           >
-        </el-row>
+        </el-row>npm
       </el-form>
     </div>
     <!-- 工具条 -->
